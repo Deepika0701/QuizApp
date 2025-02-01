@@ -12,7 +12,7 @@
 
 
 
-
+### Features
 Quiz Intro Page: The app begins with a quiz introduction page that presents essential details such as the topic of the quiz, the number of questions, quiz duration, and scoring system. This page helps the user understand the structure of the quiz before they start.
 
 Timer: A built-in countdown timer adds an exciting time-based challenge to the quiz. It counts down from the quiz duration, providing a sense of urgency and helping users manage their time as they answer each question.
@@ -47,7 +47,11 @@ cd quiz-app
 
 ## Meta
 
-Deepika – [@YourLinkedIn](https://www.linkedin.com/in/deepika-chandra-9221461b2/) – [@YourGitHub](https://github.com/Deepika0701) – chandradeepika68@gmail.com
+Deepika – 
+[![LinkedIn][linkedin-image](https://www.linkedin.com/in/deepika-chandra-9221461b2/) – 
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/Deepika0701) – 
+chandradeepika68@gmail.com
+
 
 
 ## Contributing
@@ -59,6 +63,8 @@ Deepika – [@YourLinkedIn](https://www.linkedin.com/in/deepika-chandra-9221461b
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
+[linkedin-image]:https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png
+[github-image]:https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg
 [react-image]: https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB
 [node-image]: https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=%23ffffff
 [api-image]: https://img.shields.io/badge/API-%23f7df1e.svg?style=flat-square&logo=swagger&logoColor=%23ffffff
