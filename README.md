@@ -63,8 +63,8 @@ chandradeepika68@gmail.com
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[linkedin-image]:https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png
-[github-image]:https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg
+[linkedin-image]:https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_Logo_2019.svg
+[github-image]:https://upload.wikimedia.org/wikipedia/commons/6/63/Octicons-mark-github.svg
 [react-image]: https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB
 [node-image]: https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=%23ffffff
 [api-image]: https://img.shields.io/badge/API-%23f7df1e.svg?style=flat-square&logo=swagger&logoColor=%23ffffff
