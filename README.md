@@ -1,3 +1,4 @@
+```markdown
 # Product Name
 > The Quiz App is an interactive web application that allows users to take quizzes, answer multiple-choice questions, and track their progress. It features a countdown timer, quiz navigation, and a detailed summary at the end, showing the user's answers, correct solutions, and feedback for each question. Ideal for self-assessment, the app provides an engaging and user-friendly experience for quiz takers.
 
@@ -9,8 +10,6 @@
 ### Watch the Demo Video
 
 [![Watch the demo](https://github.com/Deepika0701/QuizApp/blob/master/src/assets/quizApp.png)](https://drive.google.com/file/d/1NzMasou2wUOdKImxwIpgAOXU1P_ymrV4/view?usp=sharing)
-
-
 
 ### Features
 Quiz Intro Page: The app begins with a quiz introduction page that presents essential details such as the topic of the quiz, the number of questions, quiz duration, and scoring system. This page helps the user understand the structure of the quiz before they start.
@@ -29,43 +28,55 @@ Confirmation Modal: If the quiz is already in progress, a confirmation modal pro
 
 Responsive Design: The app is designed to be fully responsive, making it accessible and functional across various devices, including desktops, tablets, and smartphones. Whether you’re at home or on the go, the app provides a smooth and user-friendly experience.
 
-
-
-
-
 ## Development setup
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
-git clone git clone https://github.com/your-username/quiz-app.git
-cd quiz-app
-
+git clone https://github.com/Deepika0701/QuizApp.git
+cd QuizApp
 ```
-
-
 
 ## Meta
 
 Deepika – 
-[![LinkedIn][linkedin-image](https://www.linkedin.com/in/deepika-chandra-9221461b2/) – 
+[![LinkedIn][linkedin-image]](https://www.linkedin.com/in/deepika-chandra-9221461b2/) – 
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/Deepika0701) – 
 chandradeepika68@gmail.com
 
-
-
 ## Contributing
 
-1. Fork it (< https://github.com/Deepika0701/QuizApp.git>)
+1. Fork it (<https://github.com/Deepika0701/QuizApp.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[linkedin-image]:https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_Logo_2019.svg
-[github-image]:https://upload.wikimedia.org/wikipedia/commons/6/63/Octicons-mark-github.svg
+
 [react-image]: https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB
 [node-image]: https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=%23ffffff
 [api-image]: https://img.shields.io/badge/API-%23f7df1e.svg?style=flat-square&logo=swagger&logoColor=%23ffffff
+
+![Contributors](https://img.shields.io/github/contributors/Deepika0701/QuizApp.svg?style=for-the-badge)
+[View Contributors](https://github.com/Deepika0701/QuizApp/graphs/contributors)
+
+![Forks](https://img.shields.io/github/forks/Deepika0701/QuizApp.svg?style=for-the-badge)
+[View Forks](https://github.com/Deepika0701/QuizApp/network/members)
+
+![Stars](https://img.shields.io/github/stars/Deepika0701/QuizApp.svg?style=for-the-badge)
+[View Stars](https://github.com/Deepika0701/QuizApp/stargazers)
+
+![Issues](https://img.shields.io/github/issues/Deepika0701/QuizApp.svg?style=for-the-badge)
+[View Issues](https://github.com/Deepika0701/QuizApp/issues)
+
+![License](https://img.shields.io/github/license/Deepika0701/QuizApp.svg?style=for-the-badge)
+[View License](https://github.com/Deepika0701/QuizApp/blob/master/LICENSE.txt)
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)
+[Visit LinkedIn Profile](https://www.linkedin.com/in/deepika-chandra-9221461b2/)
+
+![Dependencies](https://img.shields.io/david/Deepika0701/QuizApp.svg?style=for-the-badge)
+[Dependencies Status](https://david-dm.org/Deepika0701/QuizApp)
+```
 
