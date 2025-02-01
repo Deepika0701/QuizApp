@@ -1,7 +1,6 @@
 
 
-```markdown
-# Product Name
+# Quiz App
 > The Quiz App is an interactive web application that allows users to take quizzes, answer multiple-choice questions, and track their progress. It features a countdown timer, quiz navigation, and a detailed summary at the end, showing the user's answers, correct solutions, and feedback for each question. Ideal for self-assessment, the app provides an engaging and user-friendly experience for quiz takers.
 
 [![React][react-image]](https://reactjs.org/)
@@ -39,12 +38,6 @@ git clone https://github.com/Deepika0701/QuizApp.git
 cd QuizApp
 ```
 
-## Meta
-
-Deepika –  
-[![LinkedIn][linkedin-image]](https://www.linkedin.com/in/deepika-chandra-9221461b2/) –  
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/Deepika0701) –  
-chandradeepika68@gmail.com
 
 ## Contributing
 
@@ -59,5 +52,6 @@ chandradeepika68@gmail.com
 [react-image]: https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB
 [node-image]: https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=%23ffffff
 [api-image]: https://img.shields.io/badge/API-%23f7df1e.svg?style=flat-square&logo=swagger&logoColor=%23ffffff
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-chandra-9221461b2/)
+
 
