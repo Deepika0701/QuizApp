@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+.quiz-intro {
+  max-width: 750px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #222;
+  color: #00aaff;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+  border: 2px solid #00aaff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 170, 255, 0.7);
+}
+
+.quiz-intro h2 {
+  font-size: 22px;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #00aaff;
+  padding-bottom: 5px;
+}
+
+.quiz-intro p {
+  font-size: 15px;
+  background: rgba(0, 170, 255, 0.2);
+  padding: 12px;
+  border-radius: 6px;
+  border-left: 3px solid #00aaff;
+  margin-bottom: 10px;
+}
+
+.quiz-intro button {
+  background: #00aaff;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 12px 20px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.quiz-intro button:hover {
+  background: #0077cc;
+  box-shadow: 0 4px 15px rgba(0, 170, 255, 0.7);
+  transform: scale(1.05);
+}

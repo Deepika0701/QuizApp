@@ -1,0 +1,119 @@
+.quiz-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.quiz-container h2 {
+  font-size: 24px;
+}
+
+.quiz-container p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.correct-answer {
+  font-weight: bold;
+  color: green;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 12px 20px;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #444;
+  cursor: not-allowed;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;  /* Stack the options vertically */
+  align-items: center;  /* Center the options horizontally */
+  justify-content: center; /* Center the options vertically */
+  margin-top: 20px;  /* Add spacing between question and options */
+}
+
+.option-button {
+  background-color: #222;
+  color: #00aaff;
+  font-size: 16px;
+  padding: 12px 20px;
+  border-radius: 6px;
+  border: 2px solid #00aaff;
+  cursor: pointer;
+  transition: 0.3s;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;  /* Full width to ensure buttons are aligned properly */
+  max-width: 500px; /* Limit the width of options to avoid overflowing */
+  margin-bottom: 10px; /* Add spacing between buttons */
+}
+
+.option-button:disabled {
+  background-color: #444;
+  cursor: not-allowed;
+}
+
+/* When the option is correct */
+.option-button.correct {
+  background-color: #4CAF50; /* Green background for correct answers */
+  color: white;
+}
+
+/* When the option is wrong */
+.option-button.wrong {
+  background-color: #f44336; /* Red background for wrong answers */
+  color: white;
+}
+
+/* Highlight correct answers that were not selected */
+.option-button.highlight-correct {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.answer-icon {
+  font-size: 20px;
+}
+
+.answer-icon.tick {
+  content: "✔";
+  color: green;
+}
+
+.answer-icon.cross {
+  content: "✘";
+  color: red;
+}
+
+button:focus {
+  outline: none;
+}
+
+.answer-status {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.answered-status {
+  color: green;
+}
+
+.unanswered-status {
+  color: red;
+}

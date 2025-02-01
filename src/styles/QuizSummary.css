@@ -1,0 +1,112 @@
+.quiz-summary-container {
+  width: 60%;
+  margin: 20px auto;
+  background: linear-gradient(135deg, #222, #333);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  color: #00aaff;
+  box-shadow: 0 0 10px rgba(0, 170, 255, 0.5);
+}
+
+.correct {
+  color: #00ff00;
+  font-weight: bold;
+}
+
+.wrong {
+  color: #ff3333;
+  font-weight: bold;
+}
+
+.summary-details {
+  margin-top: 20px;
+}
+
+.summary-item {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.correct-box {
+  border-left: 5px solid #00ff00;
+}
+
+.wrong-box {
+  border-left: 5px solid #ff3333;
+}
+
+.unanswered-box {
+  border-left: 5px solid #888; /* Gray border for unanswered questions */
+  background: rgba(0, 0, 0, 0.6); /* Slightly darker background for unanswered */
+}
+
+.unanswered-box p {
+  color: #888; /* Lighter text color for unanswered question */
+}
+
+.detailed-solution-button {
+  background-color: #00aaff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.detailed-solution-button:hover {
+  background-color: #0088cc;
+}
+
+.detailed-solution {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 14px;
+  text-align: left;
+}
+
+.retry-button {
+  background-color: #00aaff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.retry-button:hover {
+  background-color: #0088cc;
+}
+
+.total-points-container {
+  font-size: 19px;
+  font-weight: 800;
+  background: linear-gradient(135deg, #00d9ff, #00aaff, #005f76); /* Cool blue gradient for depth */
+  padding: 3px 8px;
+  color: #f4e328;
+  border-radius: 15px;
+  box-shadow: 0 8px 30px rgba(0, 217, 255, 0.5); /* Strong glow-like shadow */
+  display: inline-block;
+  text-transform: uppercase;
+  font-family: 'Orbitron', sans-serif; /* Sci-fi font */
+  letter-spacing: 1px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  text-align: center; /* Center the text inside the container */
+
+}
+
+.total-points-container:hover {
+  transform: scale(1.05); /* Slight zoom-in for interaction */
+  box-shadow: 0 8px 20px rgba(0, 217, 255, 0.7); /* Stronger glow on hover */
+}
+
