@@ -1,3 +1,4 @@
+
 ```markdown
 # Product Name
 > The Quiz App is an interactive web application that allows users to take quizzes, answer multiple-choice questions, and track their progress. It features a countdown timer, quiz navigation, and a detailed summary at the end, showing the user's answers, correct solutions, and feedback for each question. Ideal for self-assessment, the app provides an engaging and user-friendly experience for quiz takers.
@@ -12,21 +13,21 @@
 [![Watch the demo](https://github.com/Deepika0701/QuizApp/blob/master/src/assets/quizApp.png)](https://drive.google.com/file/d/1NzMasou2wUOdKImxwIpgAOXU1P_ymrV4/view?usp=sharing)
 
 ### Features
-Quiz Intro Page: The app begins with a quiz introduction page that presents essential details such as the topic of the quiz, the number of questions, quiz duration, and scoring system. This page helps the user understand the structure of the quiz before they start.
+- **Quiz Intro Page**: The app begins with a quiz introduction page that presents essential details such as the topic of the quiz, the number of questions, quiz duration, and scoring system. This page helps the user understand the structure of the quiz before they start.
 
-Timer: A built-in countdown timer adds an exciting time-based challenge to the quiz. It counts down from the quiz duration, providing a sense of urgency and helping users manage their time as they answer each question.
+- **Timer**: A built-in countdown timer adds an exciting time-based challenge to the quiz. It counts down from the quiz duration, providing a sense of urgency and helping users manage their time as they answer each question.
 
-Multiple Choice Questions: The quiz consists of multiple-choice questions, where users select their answer from a set of options. After each selection, users are instantly shown whether their answer was correct or incorrect, allowing for immediate feedback.
+- **Multiple Choice Questions**: The quiz consists of multiple-choice questions, where users select their answer from a set of options. After each selection, users are instantly shown whether their answer was correct or incorrect, allowing for immediate feedback.
 
-Quiz Navigation: Users can easily navigate through the quiz by moving between questions using "Next" or "Previous" buttons. This functionality ensures that users can revisit questions and make changes to their answers if necessary before submitting the quiz.
+- **Quiz Navigation**: Users can easily navigate through the quiz by moving between questions using "Next" or "Previous" buttons. This functionality ensures that users can revisit questions and make changes to their answers if necessary before submitting the quiz.
 
-Quiz Summary Page: Upon completing the quiz, users are directed to the summary page, which provides an overview of their answers. The summary includes details on both answered and unanswered questions, marking correct and incorrect answers. The summary helps users track their performance and see areas for improvement.
+- **Quiz Summary Page**: Upon completing the quiz, users are directed to the summary page, which provides an overview of their answers. The summary includes details on both answered and unanswered questions, marking correct and incorrect answers. The summary helps users track their performance and see areas for improvement.
 
-Detailed Solutions: The app provides detailed solutions to each question, showing the correct answer and an explanation of why it’s correct. This feature enhances the learning experience by helping users understand the reasoning behind the correct answers.
+- **Detailed Solutions**: The app provides detailed solutions to each question, showing the correct answer and an explanation of why it’s correct. This feature enhances the learning experience by helping users understand the reasoning behind the correct answers.
 
-Confirmation Modal: If the quiz is already in progress, a confirmation modal prompts the user to confirm whether they want to end the quiz. This prevents accidental quiz submissions and allows the user to make sure they’ve completed everything before submitting.
+- **Confirmation Modal**: If the quiz is already in progress, a confirmation modal prompts the user to confirm whether they want to end the quiz. This prevents accidental quiz submissions and allows the user to make sure they’ve completed everything before submitting.
 
-Responsive Design: The app is designed to be fully responsive, making it accessible and functional across various devices, including desktops, tablets, and smartphones. Whether you’re at home or on the go, the app provides a smooth and user-friendly experience.
+- **Responsive Design**: The app is designed to be fully responsive, making it accessible and functional across various devices, including desktops, tablets, and smartphones. Whether you’re at home or on the go, the app provides a smooth and user-friendly experience.
 
 ## Development setup
 
@@ -57,26 +58,5 @@ chandradeepika68@gmail.com
 [react-image]: https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB
 [node-image]: https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=%23ffffff
 [api-image]: https://img.shields.io/badge/API-%23f7df1e.svg?style=flat-square&logo=swagger&logoColor=%23ffffff
-
-![Contributors](https://img.shields.io/github/contributors/Deepika0701/QuizApp.svg?style=for-the-badge)
-[View Contributors](https://github.com/Deepika0701/QuizApp/graphs/contributors)
-
-![Forks](https://img.shields.io/github/forks/Deepika0701/QuizApp.svg?style=for-the-badge)
-[View Forks](https://github.com/Deepika0701/QuizApp/network/members)
-
-![Stars](https://img.shields.io/github/stars/Deepika0701/QuizApp.svg?style=for-the-badge)
-[View Stars](https://github.com/Deepika0701/QuizApp/stargazers)
-
-![Issues](https://img.shields.io/github/issues/Deepika0701/QuizApp.svg?style=for-the-badge)
-[View Issues](https://github.com/Deepika0701/QuizApp/issues)
-
-![License](https://img.shields.io/github/license/Deepika0701/QuizApp.svg?style=for-the-badge)
-[View License](https://github.com/Deepika0701/QuizApp/blob/master/LICENSE.txt)
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)
-[Visit LinkedIn Profile](https://www.linkedin.com/in/deepika-chandra-9221461b2/)
-
-![Dependencies](https://img.shields.io/david/Deepika0701/QuizApp.svg?style=for-the-badge)
-[Dependencies Status](https://david-dm.org/Deepika0701/QuizApp)
 ```
 
