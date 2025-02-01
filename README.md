@@ -1,4 +1,3 @@
-Here’s a sample `README.md` for your quiz app project:
 
 ```markdown
 # Quiz App
@@ -63,10 +62,6 @@ A simple interactive quiz application built using React. The app allows users to
 2. **Quiz Component**: Users can answer the questions. Once a question is answered, they can navigate to the next one or submit the quiz. The timer runs during the quiz.
 3. **Quiz Summary**: After submitting the quiz, a summary is shown with the results (correct and wrong answers). Users can also toggle detailed solutions for each question.
 
-## Dependencies
 
-- `react-router-dom`: For navigation between components.
-- `react`: For building the app.
-
-
+```
 
