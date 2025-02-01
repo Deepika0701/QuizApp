@@ -61,7 +61,5 @@ A simple interactive quiz application built using React. The app allows users to
 1. **Quiz Intro**: The user is presented with the quiz details, including title, topic, number of questions, and the quiz duration. They can then click to start the quiz.
 2. **Quiz Component**: Users can answer the questions. Once a question is answered, they can navigate to the next one or submit the quiz. The timer runs during the quiz.
 3. **Quiz Summary**: After submitting the quiz, a summary is shown with the results (correct and wrong answers). Users can also toggle detailed solutions for each question.
-
-
 ```
 
