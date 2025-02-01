@@ -4,6 +4,13 @@
 [![React][react-image]](https://reactjs.org/)
 [![Node.js][node-image]](https://nodejs.org/)
 [![API][api-image]](https://developer.mozilla.org/en-US/docs/Web/API)
+[API Link](https://api.jsonserve.com/Uw5CrX)
+
+### Watch the Demo Video
+
+[![Watch the demo](https://github.com/Deepika0701/QuizApp/blob/master/src/assets/quizApp.png)](https://drive.google.com/file/d/1NzMasou2wUOdKImxwIpgAOXU1P_ymrV4/view?usp=sharing)
+
+
 
 
 Quiz Intro Page: The app begins with a quiz introduction page that presents essential details such as the topic of the quiz, the number of questions, quiz duration, and scoring system. This page helps the user understand the structure of the quiz before they start.
