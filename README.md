@@ -8,7 +8,7 @@
 [![API][api-image]](https://developer.mozilla.org/en-US/docs/Web/API)
 [API Link](https://api.jsonserve.com/Uw5CrX)
 
-### Watch the Demo Video
+### Watch the Demo Video, click on below image.
 
 [![Watch the demo](https://github.com/Deepika0701/QuizApp/blob/master/src/assets/quizApp.png)](https://drive.google.com/file/d/1NzMasou2wUOdKImxwIpgAOXU1P_ymrV4/view?usp=sharing)
 
