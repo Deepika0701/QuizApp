@@ -19,19 +19,17 @@
 
 - **Multiple Choice Questions**: The quiz consists of multiple-choice questions, where users select their answer from a set of options. After each selection, users are instantly shown whether their answer was correct or incorrect, allowing for immediate feedback.
 
-- **Quiz Navigation**: Users can easily navigate through the quiz by moving between questions using "Next" or "Previous" buttons. This functionality ensures that users can revisit questions and make changes to their answers if necessary before submitting the quiz.
+- **Quiz Navigation**: Users can easily navigate through the quiz by moving between questions using "Next" button. 
 
 - **Quiz Summary Page**: Upon completing the quiz, users are directed to the summary page, which provides an overview of their answers. The summary includes details on both answered and unanswered questions, marking correct and incorrect answers. The summary helps users track their performance and see areas for improvement.
 
 - **Detailed Solutions**: The app provides detailed solutions to each question, showing the correct answer and an explanation of why it’s correct. This feature enhances the learning experience by helping users understand the reasoning behind the correct answers.
 
-- **Confirmation Modal**: If the quiz is already in progress, a confirmation modal prompts the user to confirm whether they want to end the quiz. This prevents accidental quiz submissions and allows the user to make sure they’ve completed everything before submitting.
+- **Confirmation Modal**: If the quiz is already in progress, a confirmation modal prompts the user to confirm whether they want to end the quiz if they are trying to click on the header section.
 
 - **Responsive Design**: The app is designed to be fully responsive, making it accessible and functional across various devices, including desktops, tablets, and smartphones. Whether you’re at home or on the go, the app provides a smooth and user-friendly experience.
 
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
 git clone https://github.com/Deepika0701/QuizApp.git
